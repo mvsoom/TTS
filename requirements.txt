@@ -47,7 +47,7 @@ bnnumerizer
 bnunicodenormalizer
 #deps for tortoise
 einops>=0.6.0
-transformers>=4.33.0
+transformers==4.38.2 # https://github.com/KoljaB/RealtimeTTS/issues/85#issuecomment-2121210420
 #deps for bark
 encodec>=0.1.1
 # deps for XTTS
